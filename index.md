@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ohitori.site
 ---
 
-test
+ohitori.site
