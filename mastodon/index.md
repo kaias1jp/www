@@ -3,3 +3,4 @@ layout: default
 title: おひとりさまインスタンス（mastodon編）
 ---
 2019年1月より執筆開始予定
+* [home](/index.html)
