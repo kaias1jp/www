@@ -1,6 +1,6 @@
 host: 0.0.0.0
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 title: ohitori.site
 plugins:
   - jemoji
