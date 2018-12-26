@@ -4,4 +4,5 @@ title: ohitori.site
 ---
 
 ohitori.site
-[mastodon](./mastodon/index.html).
+
+* [mastodon](./mastodon/index.html).
